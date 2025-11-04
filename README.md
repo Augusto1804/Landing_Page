@@ -12,6 +12,7 @@ O servidor pode ser:
 
 ## 💻 Tecnologias Utilizadas
 - **VsCode**
+- **ChatGPT**
 ---
 
 ## 👥 Desenvolvido por
