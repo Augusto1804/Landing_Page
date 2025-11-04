@@ -21,6 +21,6 @@ https://github.com/Augusto1804
 - Francisco Erik Araújo Barbosa - https://github.com/Erik13639/Erik13639
 
 ---
-### Professor escolhido - Élder Vidal - Professor de Português
+### Professor escolhido - Elder Vidal - Professor de Português
 
-Francisco Élder Freitas Vidal é um semeador de palavras e ideias — Doutor em Literatura, História e Memória pela Universidade Federal do Ceará, Mestre em Literatura Comparada, com formações em Educação Inclusiva, História da Arte, Psicologia e Letras. Onde muitos veem apenas o texto, ele enxerga a memória; onde muitos ensinam apenas conteúdos, ele forma consciências.
+Francisco Elder Freitas Vidal é um semeador de palavras e ideias — Doutor em Literatura, História e Memória pela Universidade Federal do Ceará, Mestre em Literatura Comparada, com formações em Educação Inclusiva, História da Arte, Psicologia e Letras. Onde muitos veem apenas o texto, ele enxerga a memória; onde muitos ensinam apenas conteúdos, ele forma consciências.
