@@ -10,7 +10,7 @@ O servidor pode ser:
 - Um **intérprete de Libras**  
 - Ou outro servidor do campus
 
-## 🧩 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - **VsCode**
 ---
 
