@@ -20,6 +20,5 @@ https://github.com/Augusto1804
 - Francisco Erik Araújo Barbosa - https://github.com/Erik13639/Erik13639
 
 **Professor Escolhido:**
-
 ### Élder Vidal - Professor de Português
 
