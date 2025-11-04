@@ -17,4 +17,4 @@ O servidor pode ser:
 ## 👥 Desenvolvido por
 - João Augusto Gonsaga de Castro - 
 https://github.com/Augusto1804
-- Nome do Aluno 2  
+- Francisco Erik Araújo Barbosa - 
