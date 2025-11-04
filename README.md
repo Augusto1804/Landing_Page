@@ -7,17 +7,11 @@ A atividade deve ser feita **em dupla**, e cada dupla deve escolher **um servido
 O servidor pode ser:
 - 👨‍🏫 Um **professor**  
 - 🧑‍💼 Um **técnico administrativo**  
-- 🤟 Um **intérprete de Libras**  
+- Um **intérprete de Libras**  
 - Ou outro servidor do campus
 
-> ⚠️ **Importante:** Não pode haver **repetição de servidor** entre as duplas.
-
----
-
 ## 🧩 Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-
+- **VsCode**
 ---
 
 ## 👥 Desenvolvido por
