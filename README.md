@@ -15,5 +15,6 @@ O servidor pode ser:
 ---
 
 ## 👥 Desenvolvido por
-- Nome do Aluno 1  
+- João Augusto Gonsaga de Castro
+
 - Nome do Aluno 2  
