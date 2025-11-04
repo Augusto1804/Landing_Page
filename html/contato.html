@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contato</title>
+        <link rel="stylesheet" href="../css/style.css">
+    </head>
+    <body>
+        <div class="head"><h1>Francisco Elder Freitas Vidal</h1>
+        <aside>
+            <nav>
+                <table class="tabela">
+                    <tr>
+                    <td><a href="../index.html">Página Inicial</a></td>
+                    <td><a href="sobre.html">Contato</a></td>
+                    <td><a href="formacao.html">Formação</a></td>
+                    <td><a href="disciplinas.html">Disciplinas</a></td>
+                    </tr>
+                </table>
+            </nav>
+        </aside>
+        </div>
+        <div class="forms">
+        <h1 id="formulario">Formulário de Contato</h1>
+        <form action="/enviar dados" method="post">
+            <label for="nome">Nome Completo:</label><br>
+            <input type="text" id="nome" name="nome" required><br><br>
+
+            <label for="email">E-mail:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="genero">Assunto:</label><br>
+            <select id="assunto" name="assunto">
+                <option value="atendimento">Agendamento de atendimento</option>
+                <option value="parceria">Parceria educacional</option>
+                <option value="entrevista">Solicitação de entrevista</option>
+                <option value="outro">Outro</option>
+            </select><br><br>
+
+            <label for="mensagem">Mensagem:</label><br>
+            <textarea id="mensagem" name="mensagem" rows="4" cols="30"></textarea><br><br>
+
+            <input type="submit" id="Enviar">
+        </form>
+        </div>
+        <footer><p>© 2025 Professor Elder Vidal. Todos os direitos reservados.</p></footer>
+    </body>
+</html>
